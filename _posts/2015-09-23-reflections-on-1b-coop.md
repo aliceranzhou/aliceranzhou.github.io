@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Reflections on 1B Co-op"
+date: 2015-09-23 09:30:09 -0400
+---
+It’s almost been a month since my internship at Square came to a close. During this internship, I’ve broadened my horizons, learned significant lessons, and made awesome friends.
+
+I’ve changed from:
+small town girl -> city girl
+being unconfident in my abilities -> "I know very little, but I’ll figure it out"
+making friends with people like me -> learning from and appreciating more people
+
+I am grateful to:
+God for His goodness in all things
+my family for their unending love
+my team for their encouragement and code reviews
+my mentor for his support and friendship
+my roommates for their kindness and acceptance
+pastors from church for their shepherding this summer
+fellowship friends for their warm welcome
+
+friends who:
+hike and explore
+eat delicious food
+learn Ukrainian folk dance early in the morning
+share homegrown figs
+share their passion about chocolate
+collect me from 6th floor
+teach me the ‘murican way of talking (and saying bacon ;) )
+greet cheerfully every morning on the way to work
+
+This co-op term has been the most amazing experience ever, and I’ll treasure all the friends and memories I’ve made. Now, I’m back in Waterloo. It’s nice to be home with family, and I’m looking forward to what this term will bring.

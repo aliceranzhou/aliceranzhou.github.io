@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Reflections on 2A Co-op"
+date: 2016-05-01 09:29:54 -0400
+---
+I’m at a loss of words.
+
+I guess all there is to say is that God's plans far exceed my plans, that His grace is greater than I can imagine.
+
+This term was characterized by challenge in many areas, but also immense support and growth. I’ve learned so much from each individual I have met this term and have also learned more to learn from others.
+
+At LinkedIn, I worked on the Distributed Graph Team, which aims to serve as LinkedIn's global secondary index to answer cross-domain queries quickly. I explored and worked on a variety of projects, including development of an internal tool to help collect statistics on query time, research and experimentation of heuristic algorithms for graph partitioning, performance measurement and memory footprint of specific writes on specific relationships, implementation of key word arguments in our query language, and discussion on our representation of absence. I have an awesome mentor who is encouraging and always ready to help, and I’ve learned a lot from him about communication with others and how to approach problems and projects. I also have a great manager who always pushes me to consider why features are needed and to maintain a high-level view of my work—in other words, to not lose sight of the forest for the trees. We were also fortunate to have Kiran Prasad, VP Engineering, Asif Makhani, Senior Director of Engineering, and Jeff Weiner, CEO, share their experiences and insights with us. Kiran Prasad also recommended the book 'How to Win Friends and Influence People' by Dale Carnegie. It’s a great book and impressed to me that understanding, appreciating, and learning from others is not to be taken lightly.
+
+Some of my biggest takeaways from the internship were:
+To ask why. Don't lose context on why we're doing things, and keep the purpose in mind in all things.
+To communicate. Over-communication is pretty much impossible. Talk to the right people as soon as possible because we work as a team.
+To always care. Care about people. Don't be afraid of taking initiative, smiling, and asking "how are you”. Everyone will be happier for it.
+
+One of my favourite parts of this term was living in the same apartment as the other LinkedInterns. Doing life together - whether it be running for the Caltrain in the morning, walking home at different speeds at night, or playing late night board games - makes mundane moments that much more special. I can honestly say that each one has an aspect that I need to learn from and emulate.
+
+I love the church I attended this term and the people in it. It has been a particular blessing to witness the lives of families in the church, and also how they are so ready to share their lives and to proclaim Christ. The support, encouragement and wisdom from my sisters in small group have also kept me grounded and more ready to walk in holiness each week.
+
+This has also been quite the musical internship. We discovered a music room at work, and through it, an amazing a capella group, InTune. Two of us auditioned and joined InTune, one of the luckiest things this term. Their kindness and love of singing has brightened our internship, and our weekly practice has become a highlight of my week. They are also incredibly talented and inspiring. Four of the interns also started our own band this term. Learning, singing, and practising songs together was a great experience. I am continually amazed by the wide set of talents within our small group.
+
+A random collection of other things we did include art galleries, barbecues, biking, board games, bosu, bouldering, brunch, fishbowl, hiking, kayaking, movies, road trips, skiing, succulents, wafels, and zumba. Too many memories that will reside in photos and even more that will just stay in our thoughts and lives.
+
+I’ve learned and grown much in the past four months and am immensely thankful for every person who has come into my life at this time. I’m excited to see what’s in store for the future, and rejuvenated to walk in and for Christ in all things.
