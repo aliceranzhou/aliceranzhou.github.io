@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi, I'm Alice! I'm currently pursuing a Computer Science degree at the University of Waterloo (estimated 2019). I have worked at Square, Linkedin, Bloomberg, and Google and enjoy delving deeper into topics through research opportunities.
 
-This blog is mainly a collection of reflections from my experiences at school and coop terms, both academic and personal. I'm trying to get back into reading, you can expect some book reflections coming up.
+This blog is mainly a collection of reflections from my experiences at school and on co-op terms.
 
 Some things I've been exploring:
 - relearning [piano](https://www.youtube.com/watch?v=ujd1rMjPgsE&list=PLE_tBD2JQ8q2-Ij6G3C15i_3gcvL0u_CI)
@@ -16,4 +16,4 @@ Some things I've been exploring:
 - exercise and health
 - reading more, both in academics and not (always open for recommendations)
 - hiking and travelling
-- quality family time (find my brother [here](https://www.matthewyangzhou.com)!)
+- investing in quality family time (find my brother [here](https://www.matthewyangzhou.com)!)

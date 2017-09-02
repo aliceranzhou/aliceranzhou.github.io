@@ -17,7 +17,7 @@ title: Aspire
 author: Alice Ran Zhou
 email: alice.zhou@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I'm Alice; a student, software engineer, and researcher.
+  Hi, I'm Alice! Student | Software Engineer | Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: aliceranzhou
