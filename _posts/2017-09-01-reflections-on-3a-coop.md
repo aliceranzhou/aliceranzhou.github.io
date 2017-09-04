@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflections on 2B Co-op"
+title: "Reflections on 3A Co-op"
 date: 2017-09-01 10:37:09 -0400
 ---
 Gratitude.
