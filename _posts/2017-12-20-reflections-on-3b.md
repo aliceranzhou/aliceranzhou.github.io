@@ -60,7 +60,7 @@ After the Christmas Break, I will be returning to Mountain View for an internshi
 
 Now there are three weeks to relax, reflect, and prepare.
 
-I am looking forward to the next term. I'm excited to see how the Lord will lead; _I put trust in the Lord, that I may declare all His works._ Although many things are uncertain, I know that He who leads is faithful.
+I am looking forward to the next term. I'm excited to see how the Lord will lead; _I put my trust in the Lord, that I may declare all His works._ Although many things are uncertain, I know that He who leads is faithful.
 
 _Many things about tomorrow  
 I don't seem to understand  
