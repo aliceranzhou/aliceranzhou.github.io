@@ -32,25 +32,29 @@ _Be careful for nothing; but in every thing by prayer and supplication with than
 let your requests be made known unto God.  
 And the peace of God, which passeth all understanding,  
 shall keep your hearts and minds through Christ Jesus._  
+(Philippians 4:6-7, KJV)
 
 Having brothers and sisters who walk together in this life, like Christian and Hopeful in _The Pilgrim's Progress_, and examples to follow, like Faithful, is such a blessing. This term I have grown in appreciation for our university fellowship. Previously, because of cultural (and language) barriers, I found it difficult to relate to international students. Through prayer and storms, this has changed. Truly, though culture may differ, but we are united in Christ. I may still be known as 'the girl with the worst Chinese', but nevertheless, we continue to spur each other on in this good race. (As a side note, my Chinese has improved quite a bit this term). Indeed, true friendships are founded firstly on our covenant with the Lord. And in loving as we ought, we are in turn blessed immensely.
 
 _There is one body, and one Spirit,  
 even as ye are called in one hope of your calling;  
 One Lord, one faith, one baptism, One God and Father of all,  
-who is above all, and through all, and in you all._
+who is above all, and through all, and in you all._  
+(Ephesians 4:4-6, KJV)
 
 If you've read this far... kudos. One last thought.
 
 I got sick in the last month of the term. The last time I sick before this was in high school (barring a short time of coughing in Fall 2016). That week I had four sets of CS assignments due, and an upcoming paper. I was only able to do work for the first two and a half days of sickness. God is gracious and I was more productive in those first days than ever before. However, the remaining days of that week were painful, and truly a reminder of my frailty and the preciousness of health. It's times like those where _we rejoice in sufferings_ gets put to the test. Yes, I know that:
 
-_God works for the good of those who love him,  
-who are called according to His purpose_  
+_all things work together for good to them that love God,  
+to them who are the called according to his purpose._  
+(Romans 8:38, KJV)
 
 but I am currently in pain and it is hard to rejoice, and to be confident that this is life. But even so, as the psalmist sings,
 
 _My flesh and my heart faileth:  
 but God is the strength of my heart, and my portion for ever._  
+(Psalm 73:25, KJV)
 
 Further I was reminded of the love of my family, pastors, and brothers and sisters in Christ. Mom made me pear soup when I could not stomach food, Dad took me to the hospital at crazy hours of the night (day?), Matthew helped me get things from upstairs when I had no energy, pastors and friends prayed for me. In these ways and more, I was showered with love, and have all the more incentive to serve those in my life whatever way I can.
 
@@ -60,7 +64,7 @@ After the Christmas Break, I will be returning to Mountain View for an internshi
 
 Now there are three weeks to relax, reflect, and prepare.
 
-I am looking forward to the next term. I'm excited to see how the Lord will lead; _I put my trust in the Lord, that I may declare all His works._ Although many things are uncertain, I know that He who leads is faithful.
+I am looking forward to the next term. I'm excited to see how the Lord will lead; _...I have put my trust in the Lord, that I may declare all His works._ (Psalms 73:28) Although many things are uncertain, I know that He who leads is faithful.
 
 _Many things about tomorrow  
 I don't seem to understand  
