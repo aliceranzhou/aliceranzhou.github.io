@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{site.github.url}}/assets/headshot.png" align="left" width="150" hspace="10">
 
-Hi, I'm Alice! I'm currently pursuing a Computer Science degree at the University of Waterloo (estimated 2019). I have worked at Square, Linkedin, Bloomberg, and Google and enjoy delving deeper into topics through research opportunities.
+Hi, I'm Alice! I'm currently pursuing a Computer Science degree at the University of Waterloo (estimated 2018). I have worked at Square, Linkedin, Bloomberg, and Google and enjoy delving deeper into topics through research opportunities.
 
 This blog is mainly a collection of reflections from my experiences at school and on co-op terms.
 
