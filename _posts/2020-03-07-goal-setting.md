@@ -16,5 +16,5 @@ At work, formal structures still exist to help facilitate this, in the form of q
 
 An area in which this is even more crucial is personal life. Entropy is real -- it is easy to run on autopilot, but much harder yet more valuable to live intentionally. More deeply, we are created and saved not to be slaves to our situations, but rather to be free to serve our living God in every area of our lives.
 
-I’ve taken the first step, and set up my 2020 OKRs, out of which an action plan will form. What will you do?
+I’ve taken the first step and written up my 2020 OKRs, out of which an action plan will form. What will you do?
 
