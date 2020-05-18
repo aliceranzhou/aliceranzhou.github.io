@@ -4,7 +4,9 @@ title: "Uncertainty"
 date: 2020-05-08 15:17:13 -0400
 ---
 
-Call me a nerd, but the first thing that comes to mind when I hear the term uncertainty is Heisenberg’s uncertainty principle. This principle asserts that there is a "fundamental limit to the precision with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions". As a concrete example, for any given quantum particle, we cannot know both its position and velocity with certainty.
+Call me a nerd, but the first thing that comes to mind when I hear the term uncertainty is Heisenberg’s uncertainty principle.
+
+This principle asserts that there is a "fundamental limit to the precision with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions". As a concrete example, for any given quantum particle, we cannot know both its position and velocity with certainty.
 
 If we cannot even determine with certainty where a particle is and where it is going, how can we have certainty of where we are and where we will be going? But often we do. We assume that life will go on, that our plans will stand. We plan for school, for work, for promotions, and we start to think we are entitled to these things. To be sure, planning is good and beneficial, but planning without considering God is foolishness. 
 
