@@ -5,7 +5,7 @@ date: 2020-05-29 21:18:32 -0400
 usemathjax: true
 ---
 
-Have you ever tuned a piano? For 18 years I thought piano tuning was something that was impossible and never under consideration of things to learn, but that changed last month. Not only did I learn to tune a piano, but even more, I gained a deeper understanding of patience and sanctification.
+Have you ever tuned a piano? For 18 years I thought piano tuning was something that was impossible and never under consideration of things to learn, but that changed this month. Not only did I learn to tune a piano, but even more, I gained a deeper understanding of patience and sanctification.
 
 ### A quick overview of how tuning works:
 
@@ -25,10 +25,8 @@ So for each key, there are two things that need to occur:
 2. Tuning the other strings for the same pitch to be in unison with that string.
 
 Step 1 is historically done using a tuning fork, which will make the A440 pitch. However, modern technology enables us to be lazy and use digital tuners to match pitch.
-Step 2 takes more nuance.
 
-Ensemble model does not work in this case -- this is a concept in machine learning where multiple models are run independently, and the output from multiple models is aggregated.
-If we tuned the strings one by one, (most) human ears do not do well enough to find the exact pitch. Instead, we tune the strings two by two.
+Step 2 takes more nuanced effort. The 'ensemble model' technique - tuning each string one by one - does not work in this case. Ensemble models are a method in machine learning where multiple models are run independently, and the output from multiple models is aggregated. If we tuned the strings one by one, (most) human ears do not do well enough to find the exact pitch. Instead, we tune the strings two by two.
 
 But first, we need to take a tangent into Physics: Sound travels in waves. Waves are defined by their amplitude and their wavelength, where wavelength is the inverse of frequency. When two waves of different wavelengths interfere, the waveforms are effectively “added”. Constructive and destructive interference work together to form beats.
 
