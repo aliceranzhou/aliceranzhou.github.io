@@ -2,6 +2,7 @@
 layout: post
 title: "A Story of Tuning"
 date: 2020-05-29 21:18:32 -0400
+usemathjax: true
 ---
 
 Have you ever tuned a piano? For 18 years I thought piano tuning was something that was impossible and never under consideration of things to learn, but that changed last month. Not only did I learn to tune a piano, but I learned so much more.
