@@ -5,7 +5,7 @@ date: 2020-05-29 21:18:32 -0400
 usemathjax: true
 ---
 
-Have you ever tuned a piano? For 18 years I thought piano tuning was something that was impossible and never under consideration of things to learn, but that changed last month. Not only did I learn to tune a piano, but I learned so much more.
+Have you ever tuned a piano? For 18 years I thought piano tuning was something that was impossible and never under consideration of things to learn, but that changed last month. Not only did I learn to tune a piano, but even more, I gained a deeper understanding of patience and sanctification.
 
 ### A quick overview of how tuning works:
 
@@ -36,12 +36,12 @@ But first, we need to take a tangent into Physics: Sound travels in waves. Waves
 
 Coming back from our tangent: when two strings have different pitches, this will produce sound waves of different frequencies, and one will hear beats. To tune, one tightens / loosens the non-reference string until the sound is clear and without beats.
 
-So given this bit of context on pianos and tuning (maybe more than you ever wanted to know?), here’s the more interesting lessons I learned through tuning:
+So given this bit of context on pianos and tuning (maybe more than you ever wanted to know?), here’s the more surprising lessons I learned through tuning:
 
-### Lesson 1: Patience and perseverance.
+### Lesson 1: Patience and perseverance
 Tuning for unison is a very arduous process. Sometimes a single adjustment will suffice. But sometimes, it will seem to take ages. A tiny adjustment will shift the note from being sharp to flat, and an adjustment the other way will do the other. Most horrifying is when I adjust the wrong string… and then need to re-tune more notes.
 
-### Lesson 2: A picture of sanctification.
+### Lesson 2: A picture of sanctification
 Each string has a very good memory of where it was before, and a tendency to slip back to their former tendencies. A week after tuning, we were again re-tuning some of the notes that had slipped. This time, more attention was given to hammering the keys to make sure the strings hold fast and stay in place. This is actually a great picture of our sanctification: God is our tuner and works for our sanctification -- although it is so easy for us to slip into the patterns of the old man, God tunes us, so that we are walking "in tune/unison" with the Spirit. Just as the tuner hammers on the notes to make sure that the strings stay in their new pitch, God gives us trials to tset and strengthen our faith, and help us to hold fast.
 
 Praise God that He works in us what is pleasing to Him, so that our lives can sing out in melody to Him who loves us so!
