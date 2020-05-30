@@ -11,7 +11,7 @@ Have you ever tuned a piano? For 18 years I thought piano tuning was something t
 
 Pianos are percussion instruments - when a key is pressed, this pivots the hammer to strike the strings, which vibrate to produce a sound. The length and tightness of each string affects its frequency (or pitch).
 
-The most common tuning system since the 18th century has been 12 equal temperament (12-TET). This divides the octave into 12 logarithmically-equal parts, one per semitone. Thus, the frequency ratio between each semitone is \$$e^{{\frac{1}{12}}{\ln2}}$$. This tells us the difference between each semitone, but we need a point of reference: 12-TET is tuned relative to a standard pitch of 440 Hz (A440).
+The most common tuning system since the 18th century has been 12 equal temperament (12-TET). This divides the octave into 12 logarithmically-equal parts, one per semitone. Thus, the frequency ratio between each semitone is $$ e^{\frac{1}{12}\ln{2}} $$. This tells us the difference between each semitone, but we need a point of reference: 12-TET is tuned relative to a standard pitch of 440 Hz (A440).
 
 But there’s more! Uprights have 88 notes, but did you know that they have around 230 strings?
 
