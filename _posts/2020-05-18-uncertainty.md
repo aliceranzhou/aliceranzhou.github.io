@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uncertainty"
-date: 2020-05-08 15:17:13 -0400
+date: 2020-05-18 15:17:13 -0400
 ---
 
 Call me a nerd, but the first thing that comes to mind when I hear the term uncertainty is Heisenberg’s uncertainty principle.
