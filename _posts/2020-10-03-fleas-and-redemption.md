@@ -43,7 +43,7 @@ These eggs hatch in two to seven weeks, and become larva. Flea larvae avoid ligh
 
 Given enough food, larvae pupate and weave cocoons in four stages. It takes about a week for metamorphosis to complete, but then the flea may lie in wait for a suitable host before emerging.
 
-Newly emerged fleas use variations in light, temperature, and carbon dioxide to detect the presence of a potential host, and will jump to a new host within seconds of emerging from the cocoon. The new flea begins feeding on host blood within minutes, and the cycle repeats [^1]. [^footnote].
+Newly emerged fleas use variations in light, temperature, and carbon dioxide to detect the presence of a potential host, and will jump to a new host within seconds of emerging from the cocoon. The new flea begins feeding on host blood within minutes, and the cycle repeats[^1].
 
-[^1] Wikipedia contributors. "Flea." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2020. Web. 7 Oct. 2020.
+[^1]: Wikipedia contributors. "Flea." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2020. Web. 7 Oct. 2020.
 
