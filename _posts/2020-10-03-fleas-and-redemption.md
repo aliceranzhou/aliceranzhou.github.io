@@ -32,8 +32,8 @@ Let your steadfast love, O Lord, be upon us,
     even as we hope in you.
 (Psalm 33:20-22)
 
-# Appendix
-## Anatomy and life cycle of fleas
+## Appendix
+### Anatomy and life cycle of fleas
 
 The cat flea - the most common flea on both cats and dogs, is a tiny (1-2mm long) and very thin insect. They are able to leap a distance of some 50 times their body length and strong claws to avoid being dislodged from their host. Only 5% of the flea population are adults - the other 95% are 50% eggs, 35% larvae, and 10% pupae.
 
