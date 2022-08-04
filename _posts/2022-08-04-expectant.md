@@ -21,5 +21,5 @@ He heard our cries and brought forth praise
 
 Oh our dear girl we love you so  
 By grace we’ll lead you Him to know  
-May God uphold you from the womb
+May God uphold you from the womb  
 And make you in His love to bloom  
