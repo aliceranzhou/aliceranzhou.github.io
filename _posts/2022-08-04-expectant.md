@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Expectant"
+date: 2022-08-04 10:29:34 -0400
+---
+
+A year ago we said “I do”
+And started on our journey true
+To build a home upon our Rock
+By grace and faith each day to walk
+
+Our Shepherd led us through each trial
+Midst battles fierce and foes hostile
+We learned to turn from fears and woes
+To trust in Him who joy bestows 
+
+In winter were we in much prayer
+The Lord to grant us a sweet heir
+Through hopeful nights now but a haze
+He heard our cries and brought forth praise
+
+Oh our dear girl we love you so
+By grace we’ll lead you Him to know
+May God uphold you from the womb
+And make you in His love to bloom
