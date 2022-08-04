@@ -4,6 +4,8 @@ title: "Expectant"
 date: 2022-08-04 10:29:34 -0400
 ---
 
+<img src="/assets/maternity.jpg" align="left" width="200" hspace="10">
+
 A year ago we said “I do”  
 And started on our journey true  
 To build a home upon our Rock  
@@ -23,3 +25,4 @@ Oh our dear girl we love you so
 By grace we’ll lead you Him to know  
 May God uphold you from the womb  
 And make you in His love to bloom  
+
