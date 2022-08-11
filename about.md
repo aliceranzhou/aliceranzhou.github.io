@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="/assets/headshot.jpg" align="left" width="150" hspace="10">
 
-Hi, I'm Alice! I'm a 2018 Computer Science grad from the University of Waterloo. I currently work on display ads serving infrastructure at Google.
+Hi, I'm Alice! I'm a wife and homemaker, and by day a software engineer working on ads serving infrastructure at Google.
 
 This blog is mainly a collection of reflections, starting from the beginning of university.
 
